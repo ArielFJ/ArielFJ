@@ -68,7 +68,7 @@ const arielfj = {
       </td>
       <td width="25%" align="center">
         <span>Unity</span><br><br>
-        <img height="64px" src="https://commons.wikimedia.org/wiki/File:Unity_Technologies_logo.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/unity.svg">
         <br><br>
       </td>
     <tr valign="top">
