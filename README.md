@@ -68,7 +68,7 @@ const arielfj = {
       </td>
       <td width="25%" align="center">
         <span>Unity</span><br><br>
-        <img height="64px" src="https://lh3.googleusercontent.com/proxy/OfYiGKcN_nE-WzqNBxyXAPAnL9tHoTqGKXOyDCKf5CpAIL9vOikMIK7zAzffWoLiCITL4nHjEPMIyKMXbCt5UVdg6YaMt7vbGNN60g_NCy8idBk3K64">
+        <img height="64px" src="https://assets.stickpng.com/thumbs/58482b92cef1014c0b5e4a2d.png">
         <br><br>
       </td>
     <tr valign="top">
