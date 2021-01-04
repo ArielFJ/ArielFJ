@@ -95,11 +95,6 @@ const arielfj = {
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
         <br><br>
       </td>
-    <td width="25%" align="center">
-        <span>Java</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
-        <br><br>
-      </td>
      </tr>
     </tr>
   </tbody>
