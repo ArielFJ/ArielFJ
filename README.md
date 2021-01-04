@@ -12,7 +12,7 @@
 ```javascript
 const arielfj = {    
     code: ["Javascript", "C#", "C++", "Java", "Python"],
-    askMeAbout: ["web dev", "tech", "game dev", "app dev", "games"],
+    askMeAbout: ["web dev", "tech", "ai", "machine learning", "app dev", "games"],
     technologies: {
         mobileApp: ["Android"], //basic
         web: {
@@ -22,6 +22,9 @@ const arielfj = {
         games: {
             engines: ["Unity"]            
         },
+        dataScience: {
+            libraries: ["SkLearn", "Scipy", "Tensorflow"]
+        }
         databases: ["SQL Server", "MySQL", "Firebase"]
     },
     hobbies: ["Coding", "Gaming", "Talking"]
@@ -69,6 +72,11 @@ const arielfj = {
       <td width="25%" align="center">
         <span>Unity</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/unity.svg">
+        <br><br>
+      </td>
+    <td width="25%" align="center">
+        <span>Python</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
         <br><br>
       </td>
     <tr valign="top">
