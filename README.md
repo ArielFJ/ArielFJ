@@ -17,13 +17,10 @@ const arielfj = {
         mobileApp: ["Android"], //basic
         web: {
             frontEnd: ["React", "HTML"],
-            backEnd: ["Javascript", "ASP.Net Core"]            
+            backEnd: ["Javascript", "TypeScript" "ASP.Net"]            
         },        
         games: {
             engines: ["Unity"]            
-        },
-        dataScience: {
-            libraries: ["SkLearn", "Scipy", "Tensorflow"]
         }
         databases: ["SQL Server", "MySQL", "Firebase"]
     },
