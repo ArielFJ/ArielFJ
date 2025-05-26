@@ -1,15 +1,28 @@
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-# 👋 Hi there, I'm **Jesús A. Fermín**
+<div id="user-content-toc">
+  <ul style="list-style: none;">
+    <summary>
+      <h1>👋 Hi there, I'm <b>Ariel Fermín</h1>
+    </summary>
+  </ul>
+</div>
 
 [![Website](https://img.shields.io/badge/Visit-arielfj.com-black?style=for-the-badge\&logo=Google-Chrome)](https://arielfj.com)
 [![Email](https://img.shields.io/badge/Email-jarielfj@gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:jarielfj@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ariel--fermin-blue?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/ariel-fermin)
+<br />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ariel--fermin-blue?style=for-the-badge\&logo=LinkedIn)](https://linkedin.com/in/ariel-fermin)
 [![GitHub](https://img.shields.io/github/followers/ArielFJ?label=GitHub\&style=for-the-badge)](https://github.com/ArielFJ)
 
----
 
-## 💻 Software Engineer | Problem Solver | Builder of Digital Experiences
+<div id="toc">
+  <ul style="list-style: none;">
+    <summary>
+      <h2>💻 Software Engineer | Problem Solver | Builder of Digital Experiences</h2>
+    </summary>
+  </ul>
+</div>
+
 
 I’m a **full-stack software engineer** with over 4 years of professional experience building robust, scalable web and cloud-native applications. My background includes work in cybersecurity e-learning platforms, government systems, and creative SaaS tools. I’m passionate about delivering clean, maintainable code and creating real value through technology.
 
@@ -24,7 +37,7 @@ const jesusAFermin = {
 };
 ```
 
----
+
 
 ## 📊 Stats & Activity
 
